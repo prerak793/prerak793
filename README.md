@@ -22,16 +22,4 @@ I am currently a **6th Semester Software Engineering student** passionate about 
 * **Tech Used:** [Insert Tech, e.g., Java, JSP, AI/ML libraries]
 * **Status:** 🚧 In Progress
 
----
 
-### 📈 GitHub Stats
-
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" />
-</a>
-</p>
-<br><br><br><br><br><br><br>
